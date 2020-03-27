@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@apollo/client": "^3.0.0-beta.41",
-    "axios": "^0.16.2",
+    "axios": "^0.18.1",
     "expo": "^33.0.0",
     "expo-linear-gradient": "~5.0.1",
     "graphql": "^14.6.0",
